@@ -39,8 +39,6 @@
             <div id="stock-list"></div>
         </div>
         <script src="index.js" type="module"></script>
-        
-        <!-- <script>
             document.addEventListener("keydown", function(e) {
             if (
             (e.ctrlKey && e.shiftKey && e.keyCode === 67) || // Ctrl + Shift + C (Copy)
